@@ -8,7 +8,7 @@
 <div align="center" >
 
   
-![My Skills](https://skills.syvixor.com/api/icons?i=reactjs,typescript,javascript,zustand,leetcode,css3,tailwindcss,npm,vite,git,visualstudiocode,supabase&perline=15&radius=85) <img src="https://upload.wikimedia.org/wikipedia/ru/9/94/%D0%93%D0%B8%D0%B3%D0%B0%D1%87%D0%B0%D0%B4.jpg" alt="Gigachad" width="48" height="48"/>
+![My Skills](https://skills.syvixor.com/api/icons?i=reactjs,typescript,javascript,zustand,leetcode,css3,tailwindcss,npm,vite,git,visualstudiocode,figma,supabase&perline=15&radius=85) <img src="https://upload.wikimedia.org/wikipedia/ru/9/94/%D0%93%D0%B8%D0%B3%D0%B0%D1%87%D0%B0%D0%B4.jpg" alt="Gigachad" width="48" height="48"/>
 
 
 
