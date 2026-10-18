@@ -8,7 +8,7 @@
 <div align="center" >
 
   
-![My Skills](https://skills.syvixor.com/api/icons?i=reactjs,typescript,prisma,nextjs,javascript,zustand,redux,leetcode,css3,tailwindcss,npm,vite,git,visualstudiocode,figma,authjs,zod,supabase,postman&perline=15&radius=85) 
+![My Skills](https://skills.syvixor.com/api/icons?i=reactjs,typescript,prisma,nextjs,javascript,zustand,redux,leetcode,css3,tailwindcss,npm,vite,git,visualstudiocode,figma,authjs,zod,supabase&perline=15&radius=85) 
 
 
 
